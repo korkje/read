@@ -1,5 +1,5 @@
 {
-    "name": "@korkje/rp1",
+    "name": "@korkje/read",
     "version": "0.0.0",
     "exports": "./mod.ts",
     "lock": false
